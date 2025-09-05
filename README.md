@@ -128,6 +128,7 @@ Relatório mensal de transações:
 - Saída final (transações válidas): 60
 - Sem erros de parsing reportados.
 ```
+<img width="2435" height="594" alt="image" src="https://github.com/user-attachments/assets/a270f771-2880-4e36-9575-a126ce6f71e2" />
 
 ---
 
