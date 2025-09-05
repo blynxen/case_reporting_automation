@@ -1,0 +1,42 @@
+# === Python básico ===
+__pycache__/
+*.py[cod]
+*$py.class
+
+# === Virtualenvs (não versionar) ===
+.venv/
+venv/
+env/
+ENV/
+
+# === Arquivos de ambiente/segredos ===
+.env
+.env.*
+!.env.example
+
+# === Build / distribuição ===
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# === Logs e caches ===
+*.log
+.pytest_cache/
+.mypy_cache/
+.cache/
+
+# === SO / IDE ===
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# === (Opcional) artefatos do projeto ===
+# Ignore os relatórios gerados localmente
+outputs/
+
+# Se quiser ignorar dados brutos mas manter o CSV de exemplo:
+# data/*
+# !data/transactions.csv
